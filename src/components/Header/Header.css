@@ -1,0 +1,24 @@
+.header {
+    color: #fff;
+    background: #EE6C4D;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header-link {
+    align-self: flex-end;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    background-color: transparent;
+    padding: 6px 12px;
+    border-radius: 5px;
+    color: #293241;
+}
+
+.header-link:hover {
+    color: #fff;
+    background-color: #293241;
+    border-color: #293241;
+}
