@@ -1,0 +1,12 @@
+.seat {
+    height: 45px;
+    width: 45px;
+    border: 1px solid #EE6C4D;
+    border-radius: 5px;
+}
+
+.seat:hover {
+    cursor: pointer;
+    background: #EE6C4D;
+    border-color: #3D5A80;
+}

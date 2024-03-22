@@ -1,0 +1,17 @@
+.seats {
+    padding: 40px;
+}
+
+.seats-container {
+    margin: 0 auto;
+    padding: 45px 25px;
+    max-width: 650px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+
+    border: 1px solid #293241;
+    border-radius: 5px;
+}

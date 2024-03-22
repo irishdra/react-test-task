@@ -1,0 +1,1 @@
+export const ORDINARY_SEATS_QUANTITY = 70;
