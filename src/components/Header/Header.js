@@ -4,7 +4,7 @@ import './Header.css';
 const Header = () => {
     return (
         <div className="header">
-            <a className="header-link" href={`/cards/0`}>Profile</a>
+            <p className="header-title">Forest Cinema</p>
         </div>
     )
 }
